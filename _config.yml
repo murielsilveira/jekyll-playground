@@ -1,0 +1,10 @@
+title: Jekyll Playground
+email: your-email@domain.com
+description: >
+  Cool description
+baseurl: ""
+url: ""
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
