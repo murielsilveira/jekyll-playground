@@ -5,4 +5,4 @@ title: Home
 
 Home
 
-<a href="./about">About</a>
+<a href="./about/">About</a>
